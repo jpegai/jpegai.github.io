@@ -72,12 +72,23 @@ h1, h2, h3, h4, h5, h6 {
  * Center the page content.
  */
 
-@media (min-width: 156em) {
+
+.container {
+  max-width: 28rem;
+}
+
+@media (min-width: 38em) {
   .container {
-    max-width: 90rem;
+    max-width: 32rem;
   }
 }
 
+@media (min-width: 56em) {
+   .container {
+     max-width: 38rem;
+   }
+ }
+}
 
 /*
  * Masthead
@@ -106,7 +117,7 @@ h1, h2, h3, h4, h5, h6 {
   letter-spacing: 0;
 }
 
-@media (max-width: 48em) {
+@media (max-width: 148em) {
   .masthead-title {
     text-align: center;
   }
