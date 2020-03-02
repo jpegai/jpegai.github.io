@@ -74,18 +74,18 @@ h1, h2, h3, h4, h5, h6 {
 
 
 .container {
-  max-width: 28rem;
+  max-width: 46rem;
 }
 
 @media (min-width: 38em) {
   .container {
-    max-width: 32rem;
+    max-width: 50rem;
   }
 }
 
 @media (min-width: 56em) {
    .container {
-     max-width: 38rem;
+     max-width: 56rem;
    }
  }
 }
@@ -147,12 +147,12 @@ h1, h2, h3, h4, h5, h6 {
   position: fixed;
   top: 0;
   bottom: 0;
-  left: -14rem;
-  width: 14rem;
+  left: -17rem;
+  width: 17rem;
   visibility: hidden;
   overflow-y: auto;
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
-  font-size: .875rem; /* 15px */
+  font-size: 1.25rem; /* ?px */
   color: rgba(255,255,255,.6);
   background-color: #202020;
   -webkit-transition: all .3s ease-in-out;
@@ -160,7 +160,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 @media (min-width: 30em) {
   .sidebar {
-    font-size: .75rem; /* 14px */
+    font-size: 1rem; /* ?px */
   }
 }
 
@@ -297,9 +297,9 @@ a.sidebar-nav-item:focus {
 #sidebar-checkbox:checked ~ .sidebar,
 #sidebar-checkbox:checked ~ .wrap,
 #sidebar-checkbox:checked ~ .sidebar-toggle {
-  -webkit-transform: translateX(14rem);
-      -ms-transform: translateX(14rem);
-          transform: translateX(14rem);
+  -webkit-transform: translateX(17rem);
+      -ms-transform: translateX(17rem);
+          transform: translateX(17rem);
 }
 
 

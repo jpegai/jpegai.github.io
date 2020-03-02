@@ -10,7 +10,8 @@ tagline:             'Learning-based image compression'
 description:         'Place to put the logo.'
 url:                 http://jpegai.github.io
 baseurl:             ''
-paginate:            1
+paginate:            5
+plugins:             [jekyll-paginate]
 
 # About/contact
 author:
