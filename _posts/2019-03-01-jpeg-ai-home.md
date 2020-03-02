@@ -3,8 +3,11 @@ layout: post
 title: Learning-based Image Coding Challenge
 ---
 
+## News
+* JPEG AI Call for Evidence available [here](https://jpeg.org/items/20200224_cfe_peg_ai.html)
+* Website up and running
 
-### Participation Rules
+## Participation Rules
 
 Participants may decide to submit their coding solutions in different ways:
 
@@ -23,13 +26,13 @@ The MMSP 2020 submissions will be peer reviewed in a similar way as any other re
 
 Decoded images should be sRGB with 8 bits per component. Contributors are also expected to provide to the JPEG committee sufficient rights to allow usage of the provided software for the purpose of evaluation.
 
-### Awards
+## Awards
 
 Based on the experimental results obtained and the review of the significance, novelty and impact of the submitted image coding solutions, two awards will be given:
 * Best performing image coding solution.
 * Most innovative image coding solution.
 
-### Timeline
+## Timeline
 
 | Date           			| Description           |
 | :------------------------ |:----------------------|

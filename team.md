@@ -3,14 +3,18 @@ layout: page
 title: Challenge Team
 ---
 
-João Ascenso, Professor at Instituto Superior Técnico, JPEG AI Ad Hoc Group Chair.
+![João Ascenso](/public/jascenso.png "João Ascenso")
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+João Ascenso, Professor at Instituto Superior Técnico, JPEG AI Ad Hoc Group Chair.<br>
+Contact: <joao.ascenso@lx.it.pt>
 
-Fernando Pereira, Professor at Instituto Superior Técnico, JPEG Requirements Chair. 
+![Fernando Pereira](/public/fpereira.png "Fernando Pereira")
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+Fernando Pereira, Professor at Instituto Superior Técnico, JPEG Requirements Chair.<br>
+Contact: <fp@lx.it.pt>
 
-Touradj Ebrahimi, Professor at École Polytechnique Fédérale de Lausanne, JPEG Convener.
+![Touradj Ebrahimi](/public/tebrahimi.png "Touradj Ebrahimi")
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+Touradj Ebrahimi, Professor at École Polytechnique Fédérale de Lausanne, JPEG Convener.<br>
+Contact: <touradj.ebrahimi@epfl.ch>
+

@@ -2,12 +2,11 @@
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
-# relative_permalinks: true
 
 # Setup
 title:               JPEG-AI MMSP Challenge
 tagline:             'Learning-based image compression'
-description:         'Place to put the logo.'
+description:         'JPEG-AI Call for Evidence <br> IEEE MMSP2020 Challenge'
 url:                 http://jpegai.github.io
 baseurl:             ''
 paginate:            5
