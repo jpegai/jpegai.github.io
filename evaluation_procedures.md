@@ -3,21 +3,12 @@ layout: page
 title: Evaluation Procedure
 ---
 
-### Anchors
-Proposals will be compared against the following anchors: 
-* JPEG (ISO/IEC 10918-1 \| ITU-T Rec. T.81)
-* JPEG 2000 (ISO/IEC 15444-1 \| ITU-T Rec. T.800)
-* HEVC Intra (ISO 23008-2 \| ITU-T Rec. H.265)
-Information on available software and configurations to be used for these anchors is given in Annex C.
-
-### Evaluation procedures
 Objective and subjective quality evaluation of the proposals will each be done by at least two independent labs, following well-established procedures and based on the decoded test images provided by each proponent. The submitted code (or binaries) for the decoder, codestreams and decoded images will be used for verification purposes. In the figure bellow, the coding pipeline for learning-based image coding solutions, which is rather straightforward, is presented. Proponents may perform encoding with any color space representation, but the input of the encoder and the output of the decoder must be in the PNG (RGB color space) format. Objective image quality will be measured with luminance and color-based metrics and the RGB decoded images will be used for quality evaluation.
 
-
-  
+ 
 ### Target rates
 
-Target bitrates for the objective evaluations include 0.06, 0.12, 0.25, 0.50, 0.75, 1.00, 1.50, and 2.00 bpp. The maximum bitrate deviation from the target bitrate should not exceed 15%. The proponents must declare for every test image which target bitrate their decoder and models can reach, and in case of deviation of the target bitrate, the proposed RD point may not be considered for evaluation. The target bitrates for the subjective evaluations will be a subset of the target bitrates for the objective evaluations and will depend on the complexity of the test images.
+Target bitrates for the objective evaluations include **0.06, 0.12, 0.25, 0.50, 0.75, 1.00, 1.50, and 2.00 bpp**. The maximum bitrate deviation from the target bitrate should not exceed **15%**. The proponents must declare for every test image which target bitrate their decoder and models can reach, and in case of deviation of the target bitrate, the proposed RD point may not be considered for evaluation. The target bitrates for the subjective evaluations will be a subset of the target bitrates for the objective evaluations and will depend on the complexity of the test images.
 The bitrates specified should account for the total number of bits necessary for generating the encoded file (or files) out of which the decoder can reconstruct a lossy version of the entire image. The main rate metric is the number of bits per pixel (bpp) defined as:
 
 
@@ -25,6 +16,7 @@ BPP = (N_TOT_BITS)/(N_TOT_PIXELS)
 
 
 where N_TOT_BITS is the number of bits for the compressed representation of the image and N_TOT_PIXELS is the number of pixels in the image. 
+
 
 ### Objective quality testing
 
