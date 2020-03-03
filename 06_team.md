@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Challenge Team
+permalink: /6-team/
 ---
 
 ![João Ascenso](/public/jascenso.png "João Ascenso")

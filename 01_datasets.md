@@ -1,6 +1,7 @@
 ---
 layout: page
 title: JPEG AI Datasets
+permalink: /1-datasets/
 ---
 
 The JPEG AI database was constructed to (i) evaluate the performance of state-of-the-art 
@@ -36,5 +37,5 @@ The numbers of images above allow for an efficient training/validation and they 
 the numbers used in available works. The number of test images provides a 
 well-balanced set of diverse images that can be used for a representative evaluation of 
 learning-based image coding solutions. The training and validation dataset will be available 
-[sftp://jpeg-cfe@amalia.img.lx.it.pt]() (password to be given by request) by 3rd March, 2020.
+[sftp://jpeg-cfe@amalia.img.lx.it.pt]() (password to be given by request) by 10th March, 2020.
 

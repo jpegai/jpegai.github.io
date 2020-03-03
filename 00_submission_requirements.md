@@ -1,9 +1,10 @@
 ---
 layout: page
 title: Submission Requirements
+permalink: /0-sub_req/
 ---
 
-In addition to the technical description and other elements (code or binaries, decoded images, etc) to be submitted, proponents are encouraged to contribute to the standardization process, namely by participating in the JPEG AI ad-hoc group.
+Proponents are expected to compress some test material to be provided, with their codec using some target bitrates described in the [evaluation procedure](/2-eval_proc/). The [datasets](/1-datasets/), [quality metrics](/3-metrics/) and [anchors](/4-anchors/) are also available.
 
 ### Proposal description
 
@@ -15,6 +16,10 @@ Each proposal must include a technical description of the entire image codec, in
 * RD performance for at least four test images (to be specified) using MS-SSIM and VMAF objective metrics. 
 * Running time (encoder and decoder) for some CPU and GPU platform. Include all the details of the platform (CPU model, clock rate and memory, GPU model and brand) but also the deep learning framework (e.g. Tensorflow or Pytorch). The recommended platform for GPU is NVIDIA 2080 Ti, but you may use other one. 
 
+Participants may decide to submit the description of their coding solutions in different ways:
+1. JPEG technical document,
+2. MMSP paper following the MMSP2020 submission guide lines and according to the MMSP2020 paper kit (although not by the same deadline),
+3. JPEG technical document and a MMSP 2020 submission.
 
 ### Additional elements
 The following additional elements must be submitted by all proposals:
@@ -22,3 +27,10 @@ The following additional elements must be submitted by all proposals:
 * Code-streams corresponding to the encoded test images to be used for decoding.
 * Decoded test images for objective and subjective evaluation. All test images will be made available to proponents on the website created for the Call for Evidence (and Challenge). 
 * Training dataset (if the JPEG AI dataset was not used). This is optional.
+
+Decoded images should be sRGB with 8 bits per component. Contributors are also expected to provide to the JPEG committee sufficient rights to allow usage of the provided software for the purpose of evaluation. The evaluation process may need to crop and/or clip the provided images to make them suitable for subjective evaluation. 
+
+### Standardization process
+In addition to the technical description and the additional elements (code or binaries, decoded images, etc) to be submitted, proponents are encouraged to contribute to the standardization process, namely by participating in the JPEG AI ad-hoc group:
+* E-mail reflector: [jpeg-ai@jpeglists.org](jpeg-ai@jpeglists.org)
+* To subscribe to the reflector, please visit [JPEG AI mailing list](http://jpeg-ai-list.jpeg.org) or in case of problems contact [us](mailto:lists@jpeg.org).

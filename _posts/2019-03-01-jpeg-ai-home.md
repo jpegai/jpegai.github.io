@@ -1,30 +1,28 @@
 ---
 layout: post
 title: Learning-based Image Coding Challenge
+permalink: /home/
 ---
 
 ## News
 * JPEG AI Call for Evidence available [here](https://jpeg.org/items/20200224_cfe_peg_ai.html)
 * Website up and running
 
+## Objective
+
+The main objective of this challenge (and JPEG Call for Evidence) is to objectively and subjectively evaluate relevant learning-based image coding solutions to demonstrate the potential of this coding approach, especially in terms of compression efficiency. This topic has received many contributions in recent years and is considered critical for the future of image coding. Naturally, improvements on some aspects (mainly tools) of existing learning-based image codecs are also welcome.
+
 ## Participation Rules
 
-Participants may decide to submit their coding solutions in different ways:
+Participants are required to submit the following material:
 
-1. JPEG technical document,
-
-2. MMSP paper following the MMSP2020 submission guide lines and according to the MMSP2020 paper kit (although not by the same deadline),
-
-3. JPEG technical document and a MMSP 2020 submission.
-
-The MMSP 2020 submissions will be peer reviewed in a similar way as any other regular MMSP paper submissions and, if accepted, will go to IEEExplore. Proponents are expected to compress some test material to be provided, with their codec using some target bitrates that will be communicated by the organizers. In all cases, participants are required to submit material to validate the performance of their submission according to the procedure outlined next, notably:
-
-* A detailed description of the coding algorithm as well as methodologies and data used for training, as compression performance alone is not the only evaluation criterion.
+* A detailed description of the coding algorithm in the form of an MMSP paper and/or JPEG technical report as well as methodologies and data used for training.
 * A decoder implementation in a form that allows stand-alone inference/testing on a standard computer (CPU only) in a reasonable amount of time, preferably in source code form.
-* Compressed codestreams.
-* Corresponding decoded images.
+* Compressed codestreams and corresponding decoded images.
 
-Decoded images should be sRGB with 8 bits per component. Contributors are also expected to provide to the JPEG committee sufficient rights to allow usage of the provided software for the purpose of evaluation.
+The MMSP 2020 submissions will be peer reviewed in a similar way as any other regular MMSP paper submissions and, if accepted, will go to [IEEExplore](https://ieeexplore.ieee.org/Xplore/home.jsp). 
+
+Submissions must be fullfill the [Submission requirements](/0-sub_req/) and are evaluated according to the [Submission Criteria](/8-criteria/).
 
 ## Awards
 
