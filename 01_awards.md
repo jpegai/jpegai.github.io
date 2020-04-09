@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Timeline
+title: Awards
 permalink: /1-awards/
 ---
 
