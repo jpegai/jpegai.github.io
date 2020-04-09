@@ -36,7 +36,7 @@ Based on the experimental results obtained and the review of the significance, n
 | :------------------------ |:----------------------|
 | 10th March       			| Release of the training and validation parts of the dataset. |
 | 30th May       			| Proposal registration. |
-| 12th June  				| Submission of code-streams and decoded images for the test dataset. <br>Submission of MMSP paper and/or JPEG technical document submission. |
+| 12th June  				| Submission of decoder implementation with some fixed model. No (re)training is allowed after this date. |
 | 14th June  				| Release of the test dataset for proponents to code. |
 | 18th June  				| Submission of code-streams and decoded images for the test dataset. |
 | 21st June  				| MMSP paper and/or JPEG technical document submission. |
