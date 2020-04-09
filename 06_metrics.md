@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Quality Metrics
-permalink: /4-metrics/
+permalink: /6-metrics/
 ---
 
 This section defines the objective image quality metrics that will be used for the assessment of learning-based image coding solutions.

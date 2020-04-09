@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Submission Requirements
-permalink: /0-sub_req/
+permalink: /2-sub_req/
 ---
 
 Proponents are expected to compress some test material to be provided, with their codec using some target bitrates described in the [evaluation procedure](/2-eval_proc/). The [datasets](/1-datasets/), [quality metrics](/3-metrics/) and [anchors](/4-anchors/) are also available.

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Assessment Criteria
-permalink: /3-criteria/
+permalink: /5-criteria/
 ---
 
 A set of common test conditions (CTC) for learning-based image codecs was designed in the context of the JPEG AI activities, which defines training and testing datasets, benchmarking codecs, coding conditions (especially target bitrates) and a set of reliable objective quality metrics and subjective assessment procedures [1]. This CTC allows to exhaustively evaluate multiple aspects of learning-based image codecs to fully understand their strengths and weaknesses, notably regarding already available image coding technology. 

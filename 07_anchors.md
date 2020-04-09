@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Anchors
-permalink: /5-anchors/
+permalink: /7-anchors/
 ---
 
 ### Anchors

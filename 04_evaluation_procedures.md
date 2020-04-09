@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Evaluation Procedure
-permalink: /2-eval_proc/
+permalink: /4-eval_proc/
 ---
 
 Objective and subjective quality evaluation of the proposals will each be done by at least two independent labs, following well-established procedures and based on the decoded test images provided by each proponent. The submitted code (or binaries) for the decoder, codestreams and decoded images will be used for verification purposes. In the figure bellow, the coding pipeline for learning-based image coding solutions, which is rather straightforward, is presented. Proponents may perform encoding with any color space representation, but the input of the encoder and the output of the decoder must be in the PNG (RGB color space) format. Objective image quality will be measured with luminance and color-based metrics and the RGB decoded images will be used for quality evaluation.

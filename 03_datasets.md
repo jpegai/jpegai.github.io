@@ -1,7 +1,7 @@
 ---
 layout: page
 title: JPEG AI Datasets
-permalink: /1-datasets/
+permalink: /3-datasets/
 ---
 
 The JPEG AI database was constructed to (i) evaluate the performance of state-of-the-art 
