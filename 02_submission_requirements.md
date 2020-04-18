@@ -14,7 +14,7 @@ Each proposal must include a technical description of the entire image codec, in
 * Encoder/decoder architecture, training procedure including loss function used, strategies on how to deal with the non-differentiable quantization and bitrate allocation.
 * Model size if applicable, which corresponds to the number of weights (and precision of each weight) in the encoder and decoder.
 * RD performance for at least four test images (to be specified) using MS-SSIM and VMAF objective metrics. 
-* Running time of encoding and decoding processes:
+* Time duration of encoding and decoding processes:
 	* Information about the processor platforms used, including the type of platform (e.g. CPUs, GPUs, ASIC-based accelerators, FPGAs, etc.), brand, CPU model, number and clock rate of cores, size of on-chip memory, size of main memory, model of ML/graphic accelerators (e.g. model of GPU card).
 	* ML framework (e.g. Caffe, Tensorflow, MindSpore, Pytorch) and its version information.
 	* ASIC-based, FPGA-based accelerators and new ML frameworks are encouraged to be used (if used then should be clearly specified).
