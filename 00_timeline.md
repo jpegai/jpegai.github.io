@@ -4,12 +4,10 @@ title: Timeline
 permalink: /0-time/
 ---
 
-## Timeline
-
 | Date           			| Description           |
 | :------------------------ |:----------------------|
 | 10th March       			| Release of the training and validation parts of the dataset. |
-| 30th May       			| Proposal registration. |
+| 6th May       			| Proposal registration. |
 | 12th June  				| Submission of decoder implementation with some fixed model. No (re)training is allowed after this date. |
 | 14th June  				| Release of the test dataset for proponents to code. |
 | 18th June  				| Submission of code-streams and decoded images for the test dataset. |
