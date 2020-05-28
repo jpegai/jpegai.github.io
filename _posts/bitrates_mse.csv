@@ -1,0 +1,9 @@
+File, Target Bitrate, Actual Bitrate, MSE
+team01_image0007_TE_800x600_8bit_sRGB_006.png,0.06,0.068,41.1
+team01_image0007_TE_800x600_8bit_sRGB_015.png,0.15,0.157,38.3
+team01_image0007_TE_800x600_8bit_sRGB_025.png,0.25,0.264,31.3
+team01_image0007_TE_800x600_8bit_sRGB_050.png,0.50,0.516,25.4
+team01_image0007_TE_800x600_8bit_sRGB_075.png,0.75,0.743,18.6
+team01_image0007_TE_800x600_8bit_sRGB_100.png,1.00,1.091,15.1
+team01_image0007_TE_800x600_8bit_sRGB_150.png,1.50,1.561,12.0
+team01_image0007_TE_800x600_8bit_sRGB_200.png,2.00,2.062,9.3
