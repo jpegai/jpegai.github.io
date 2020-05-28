@@ -10,11 +10,11 @@ The proponents of all registered proposals will receive by email a TEAMID regist
 ## File submission: data organization 
 There should be four seperate ZIP files with the following information:
 * Decoder+docker file: source decoder and docker configuration file. If justified, the Docker container could be considered for submission.
-* Model(s) to be used during decoding. The following naming convention must be used: `<TEAMID>_<BR>.model`. If only one model is used <BR> should be set to 'all'. 
+* Model(s) to be used during decoding. The following naming convention must be used: `<TEAMID>_<BR>.model`. If only one model is used `<BR>` should be set to 'all'. 
 * Decoded images according to the naming convention defined bellow.
 * Bitstreams to be used for decoding using the same naming convention as the decoded images but with .bits extension.
 
-The naming convention for the zip files is `TEAMID_DATETIME_<[Decoder_docker | Models | Bitstream | Decoded]>.zip` where DATETIME is MMDDHHMM, e.g. the filename for team 01 to submit the decoder models is 01_12061054_Models.zip.
+The naming convention for the zip files is `TEAMID_DATETIME_<[Decoder_docker | Models | Bitstream | Decoded]>.zip` where DATETIME is MMDDHHMM, e.g. the filename for team 01 to submit the decoder models in 12th June at 10:54 is 01_12061054_Models.zip.
 
 ## Test images
 The test images will be available here. See when in [Timeline](/0-time/).
@@ -66,8 +66,8 @@ The submission must be performed by using sftp according to the following instru
 * The access to the FTP site should be performed with [FileZilla](https://filezilla-project.org/)  
 * Protocol: FTP 
 * Host (FTP sever): tremplin.epfl.ch .
-* Username: <USER>@mmspgdata.epfl.ch 
-* Password: <PASSWORD>
+* Username: `<USER>@mmspgdata.epfl.ch `
+* Password: `<PASSWORD>`
 * FTP port: 21 
 
 NOTE: The username includes "@mmspgdata.epfl.ch" 
