@@ -1,5 +1,5 @@
 ﻿---
-layout: post
+layout: page
 title: Submission instructions and reporting guidelines
 permalink: /sub_instructs/
 ---
@@ -14,7 +14,7 @@ There should be four seperate ZIP files with the following information:
 * Decoded images according to the naming convention defined bellow.
 * Bitstreams to be used for decoding using the same naming convention as the decoded images but with .bits extension.
 
-The naming convention for the zip files is `TEAMID_DATETIME_<[Decoder_docker | Models | Bitstream | Decoded]>.zip` where DATETIME is MMDDHHMM, e.g. the filename for team 01 to submit the decoder models in 12th June at 10:54 is 01_12061054_Models.zip.
+The naming convention for the zip files is `TEAMID_DATETIME_<[Decoder_docker | Models | Bitstream | Decoded]>.zip` where DATETIME is MMDDHHMM, e.g. the filename for team 01 to submit the decoder models in 12th June at 10:54 is 01_12061054_Models.zip.z
 
 ## Test images
 The test images will be available here. See when in [Timeline](/0-time/).
