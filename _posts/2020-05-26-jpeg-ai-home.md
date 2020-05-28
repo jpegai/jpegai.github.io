@@ -5,9 +5,10 @@ permalink: /home/
 ---
 
 ## News
+* Check the [submission instructions and reporting guidelines](/sub_instructs/).
 * Registration is now open ! Register your proposal [here](https://forms.gle/uLwJZFZYQgx8NaYh9)
 * Check the new [timeline](/0-time/) and the [awards](/1-awards/).
-* JPEG AI Call for Evidence available [here](https://jpeg.org/items/20200224_cfe_peg_ai.html)
+* JPEG AI Call for Evidence is [available](https://jpeg.org/items/20200224_cfe_peg_ai.html)
 * Website up and running
 
 ## Objective
