@@ -2,6 +2,7 @@
 layout: post
 title: Learning-based Image Coding Challenge
 permalink: /home/
+visible: 1
 ---
 
 ## News

@@ -1,7 +1,8 @@
 ﻿---
-layout: page
+layout: post
 title: Submission instructions and reporting guidelines
 permalink: /sub_instructs/
+visible: 0
 ---
 
 The proponents of all registered proposals will receive by email a TEAMID registration ID with (two digits) along with login and password to upload all the required information.
