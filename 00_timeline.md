@@ -8,12 +8,12 @@ permalink: /0-time/
 | :------------------------ |:----------------------|
 | 10th March       			| Release of the training and validation parts of the dataset. |
 | 6th May       			| Proposal registration opens. |
-| 12th June  				| Submission of decoder implementation with some fixed model. No (re)training is allowed after this date. |
-| 14th June  				| Release of the test dataset for proponents to code. |
-| 18th June  				| Submission of code-streams and decoded images for the test dataset. |
-| 21st June  				| MMSP paper and/or JPEG technical document submission. |
-| 15th July  				| MMSP paper notification. |
-| 30th July  				| MMSP camera ready paper. |
+| ~~12th June~~19th June  				| Submission of decoder implementation with some fixed model. No (re)training is allowed after this date. |
+| ~~14th June~~21st June 				| Release of the test dataset for proponents to code. |
+| ~~18th June~~25th June  				| Submission of code-streams and decoded images for the test dataset. |
+| ~~21st June~~28th June 				| MMSP paper and/or JPEG technical document submission. |
+| ~~15th July~~24th June  				| MMSP paper notification. |
+| ~~30th July~~7th August 				| MMSP camera ready paper. |
 | 1st September  			| 1st Stage: Objective evaluation of all the proposals; <br>results will be released online, including which proposals will be subjectively evaluated. <br> 2nd Stage: Subjective evaluation. |
 | 15th September  			| End of subjective evaluation; results will be released online. |
 | 21st-23rd September       | Challenge session at MMSP 2020 with presentations and announcement of awardees. |
