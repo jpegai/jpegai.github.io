@@ -39,10 +39,9 @@ The JPEG 2000 anchor generation should support two configurations: 1) PSNR optim
 ###	HEVC (ISO 23008-2:2018 \| ITU-T Rec. H.265 (v5))
 For HEVC, an external rate control loop is required to achieve targeted bitrate. The HEVC RD performance for the target bitrates are obtained with the following conditions:
 * Available software: HEVC Test Model HM-16.20+SCM-8.8
-	- Available [here](https://hevc.hhi.fraunhofer.de/)
+	- Available [here](https://hevc.hhi.fraunhofer.de/svn/svn_HEVCSoftware/tags/HM-16.20+SCM-8.8/ )
 	- License: BSD
-* FFMPEG will be used to convert the PNG (RGB) to YUV files following the BT709 primaries.
-* Configuration files to be used are available in [1].
+* FFMPEG will be used to convert the PNG (RGB) to YUV files following the BT.709 primaries.
+	- ffmpeg -hide_banner -i input.png -pix_fmt yuv444p10le -vf scale=out_color_matrix=bt709 -color_primaries bt709 -color_trc bt709 -colorspace bt709 -y output.yuv
+* Configuration files to be used are available [here](/public/encoder_intra_main_scc_10.cfg)
 
-
-[1] E. Upenik, J. Wassenberg, “JPEG XL Experiment Reproduction”, ISO/IEC JTC 1/SC29/WG1 M86083, 86th JPEG Meeting, Sydney, Australia, January 2020.
