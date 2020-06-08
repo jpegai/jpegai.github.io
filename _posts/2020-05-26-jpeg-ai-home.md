@@ -6,6 +6,8 @@ visible: 1
 ---
 
 ## News
+* Submission deadlines were postponed. Check the new and final dates in the [timeline](/0-time/)
+* Website up and running
 * Check the [submission instructions and reporting guidelines](/sub_instructs/).
 * Registration is now open ! Register your proposal [here](https://forms.gle/uLwJZFZYQgx8NaYh9)
 * Check the new [timeline](/0-time/) and the [awards](/1-awards/).

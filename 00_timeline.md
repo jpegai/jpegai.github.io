@@ -4,6 +4,8 @@ title: Timeline
 permalink: /0-time/
 ---
 
+Final deadlines for submission of decoder with model, code-streams and decoded test images.
+
 | Date           			| Description           |
 | :------------------------ |:----------------------|
 | 10th March       			| Release of the training and validation parts of the dataset. |
