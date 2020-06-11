@@ -4,7 +4,7 @@ title: Timeline
 permalink: /0-time/
 ---
 
-Final deadlines for submission of decoder with model, code-streams and decoded test images.
+Final deadlines for submission of decoder with model, code-streams and decoded test images. The timezone of all deadlines is [AoE](https://www.timeanddate.com/time/zones/aoe).
 
 | Date           			| Description           |
 | :------------------------ |:----------------------|
@@ -14,7 +14,7 @@ Final deadlines for submission of decoder with model, code-streams and decoded t
 | ~~14th June~~21st June 				| Release of the test dataset for proponents to code. |
 | ~~18th June~~25th June  				| Submission of code-streams and decoded images for the test dataset. |
 | ~~21st June~~28th June 				| MMSP paper and/or JPEG technical document submission. |
-| ~~15th July~~24th June  				| MMSP paper notification. |
+| ~~15th July~~24th July  				| MMSP paper notification. |
 | ~~30th July~~7th August 				| MMSP camera ready paper. |
 | 1st September  			| 1st Stage: Objective evaluation of all the proposals; <br>results will be released online, including which proposals will be subjectively evaluated. <br> 2nd Stage: Subjective evaluation. |
 | 15th September  			| End of subjective evaluation; results will be released online. |
