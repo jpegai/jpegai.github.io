@@ -47,7 +47,7 @@ The following information is needed for all decoded test images:
 * Target and real bitrates.
 * Mean Square Error (MSE) using the corresponding original image as reference.
 
-The proponents should use the following <a href="/public/bitrates_mse.csv">CSV template</a> to be included in the ZIP file with the decoder submission.
+The proponents should use the following <a href="/public/bitrates_mse.csv">CSV template</a> to be included in the ZIP file with the decoded images submission.
 
 
 ## Decoded images naming convention 

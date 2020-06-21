@@ -6,8 +6,9 @@ visible: 1
 ---
 
 ## News
+* **Encode the [test set](/test_images/) at the [8 target bitrates](/4-eval_proc/)**. 
+	* Upload the decoded images, bitstreams, bitrates and MSE error (as described [here](/sub_instructs/)).
 * Submission deadlines were postponed. Check the new and final dates in the [timeline](/0-time/)
-* Website up and running
 * Check the [submission instructions and reporting guidelines](/sub_instructs/).
 * Registration is now open ! Register your proposal [here](https://forms.gle/uLwJZFZYQgx8NaYh9)
 * Check the new [timeline](/0-time/) and the [awards](/1-awards/).

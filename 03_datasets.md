@@ -31,7 +31,7 @@ characteristics, such as content and spatial resolution. These datasets have the
 
 * Format: PNG images (RGB color components, non-interlaced);
 * Spatial resolution: from 256×256 to 8K (8 bit);
-* Training/validation/test dataset: 5264/350/25 images.
+* Training/validation dataset: 5264/350 images.
 
 The numbers of images above allow for an efficient training/validation and they are typically larger than 
 the numbers used in available works. The number of test images provides a 
