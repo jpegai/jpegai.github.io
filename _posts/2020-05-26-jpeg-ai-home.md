@@ -6,7 +6,7 @@ visible: 1
 ---
 
 ## News
-* Submit your paper [here](https://attend.ieee.org/mmsp-2020/) until 2th July, AoE.
+* Submit your paper [here](https://www.conftool.org/mmsp2020/index.php) until 2th July, AoE.
 * Encode the [test set](/test_images/) at the [8 target bitrates](/4-eval_proc/). 
 	* Upload the decoded images, bitstreams, bitrates and MSE error (as described [here](/sub_instructs/)).
 * Submission deadlines were postponed. Check the new and final dates in the [timeline](/0-time/)
