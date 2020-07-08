@@ -10,7 +10,7 @@ Proposals will be compared against the following anchors:
 
 * JPEG (ISO/IEC 10918-1 \| ITU-T Rec. T.81)
 * JPEG 2000 (ISO/IEC 15444-1 \| ITU-T Rec. T.800)
-* HEVC Intra (ISO 23008-2 \| ITU-T Rec. H.265)
+* HEVC Intra (ISO/IEC 23008-2 \| ITU-T Rec. H.265)
 
 The configurations detailed below are relevant for the definition of anchors.
 
@@ -34,7 +34,7 @@ The JPEG 2000 anchor generation should support two configurations: 1) PSNR optim
 	+ **Decoding**: `kdu_expand -i [INPUTFILE .mj2] -o [OUTPUTFILE .yuv] -precise`
 
 
-###	HEVC (ISO 23008-2:2018 \| ITU-T Rec. H.265 (v5))
+###	HEVC (ISO/IEC 23008-2:2018 \| ITU-T Rec. H.265 (v5))
 For HEVC, an external rate control loop is required to achieve targeted bitrate. The HEVC RD performance for the target bitrates are obtained with the following conditions:
 * Available software: HEVC Test Model HM-16.20+SCM-8.8
 	+ Available [here](https://hevc.hhi.fraunhofer.de/svn/svn_HEVCSoftware/tags/HM-16.20+SCM-8.8/ )

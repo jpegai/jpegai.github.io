@@ -21,7 +21,7 @@ The selection of the proposals for subjective assessment will be made by a Selec
 
 ## References
 
-[1] J. Ascenso, P. Akayzi “JPEG AI Image Coding Common Test Conditions”, ISO /IEC JTC 1/SC 29/WG 1 N84035, 84th Meeting, Brussels, Belgium, 13-19 July 2019.
+[1] J. Ascenso, P. Akayzi “JPEG AI Image Coding Common Test Conditions”, ISO/IEC JTC 1/SC 29/WG 1 N84035, 84th Meeting, Brussels, Belgium, 13-19 July 2019.
 
 
 [2] J. Ascenso, P. Akayzi, M. Testolina, A. Boev, E. Alshina “Performance Evaluation of Learning based Image Coding Solutions and Quality Metrics”, ISO/IEC JTC 1/SC29/WG1 N85013, 85th JPEG Meeting, San Jose, USA, November 2019. Available [here](https://jpeg.org/items/20191203_jpeg_ai_performance_evaluation.html).
