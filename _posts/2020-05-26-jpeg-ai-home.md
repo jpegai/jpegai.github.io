@@ -6,7 +6,7 @@ visible: 1
 ---
 
 ## News
-* Paper decision would occur on the deadline specified [here](https://attend.ieee.org/mmsp-2020/important-dates/).
+* Paper decision deadline is defined [here](https://attend.ieee.org/mmsp-2020/important-dates/).
 * Submit your paper [here](https://www.conftool.org/mmsp2020/index.php) until 2th July, AoE.
 * Encode the [test set](/test_images/) at the [8 target bitrates](/4-eval_proc/). 
 	* Upload the decoded images, bitstreams, bitrates and MSE error (as described [here](/sub_instructs/)).
